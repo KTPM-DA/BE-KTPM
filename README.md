@@ -11,11 +11,10 @@ A boilerplate/starter project for quickly building RESTful APIs using Node.js, E
 
 ## member
 
-| MSSV    |      Name       |        phone |
-| :------ | :-------------: | -----------: |
-| 1612365 | Nguyen Thien Ly | 034 437 4834 |
-| 1612560 | Trinh Nhat Sinh | 086 748 2516 |
-| 1612319 |  Vo Kong Kiet   | 038 640 6764 |
+| MSSV    |      Name       |
+| :------ | :-------------: | 
+| 1612461 | Dang Quoc Nhat  | 
+| 1612560 | Trinh Nhat Sinh | 
 
 ### Quick Start
 
